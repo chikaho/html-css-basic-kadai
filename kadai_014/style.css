@@ -1,0 +1,29 @@
+body{
+  font-family: "Arial", "Meiryo", sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+h1 {
+  font-family: "Josefin Sans",sans-serif;
+  letter-spacing: 1.2em;
+  font-size: 40px
+}
+#first-heading{
+  border-bottom: solid 3px rgb(115, 115, 114)
+}
+.text-color{
+  color: skyblue;
+}
+.text-color-Y{
+  color: rgb(255, 192, 203);
+}
+
+.paragraph{
+  color: rgb(255, 192, 203);
+}
+.head{
+  color: skyblue;
+}
+#parent div{
+  font-weight: bold;
+}
